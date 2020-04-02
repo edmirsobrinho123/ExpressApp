@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\ExpressApp\ExpressApp\obj\Debug\ExpressApp.njsprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ExpressApp\ExpressApp\bin\Microsoft.NodejsTools.WebRole.dll
